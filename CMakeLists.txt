@@ -17,14 +17,14 @@ set(CMAKE_CXX_STANDARD 23)
 #endif()
 
 #find_package(CUDAToolkit REQUIRED)
-
-add_executable(test_mm_mult
-        test/test_mm_mult.cu
-)
-target_include_directories(test_mm_mult PUBLIC src)
-
-add_executable(test_goldberg
-        test/test_goldberg.cu
-)
-target_include_directories(test_goldberg PUBLIC src)
+#
+#add_executable(test_mm_mult
+#        test/test_mm_mult.cu
+#)
+#target_include_directories(test_mm_mult PUBLIC src)
+#
+#add_executable(test_goldberg
+#        test/test_goldberg.cu
+#)
+#target_include_directories(test_goldberg PUBLIC src)
 
