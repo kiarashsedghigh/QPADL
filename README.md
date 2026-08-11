@@ -16,9 +16,9 @@
 This repository contains the **benchmarking** of the cryptographic components used in the paper:
 
 > **QPADL: Post-Quantum Private Spectrum Access with Verified Location and DoS Resilience**  
-> **Authors:** Saleh Darzi, Saif Eddine Nouma, Kiarash Sedghighadikolaei, Attila Altay Yavuz  
+> **Authors:** Saleh Darzi, Kiarash Sedghighadikolaei, Saif Eddine Nouma, Attila Altay Yavuz  
 > **Published in:** *IEEE (Year / Venue TBD)*  
-> **Contact:** ✉️ salehdarzi@usf.edu · saifeddinenouma@usf.edu · kiarashs@usf.edu · attilaayavuz@usf.edu
+> **Contact:** ✉️ salehdarzi@usf.edu · kiarashs@usf.edu · saifeddinenouma@usf.edu · attilaayavuz@usf.edu
 
 🔗 [ArXiv / DOI link – coming soon]
 
